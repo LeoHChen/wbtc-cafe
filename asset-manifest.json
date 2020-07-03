@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wbtc-cafe/static/css/main.b79f1b1d.chunk.css",
-    "main.js": "/wbtc-cafe/static/js/main.b7a0f6ea.chunk.js",
-    "main.js.map": "/wbtc-cafe/static/js/main.b7a0f6ea.chunk.js.map",
+    "main.js": "/wbtc-cafe/static/js/main.4b47a754.chunk.js",
+    "main.js.map": "/wbtc-cafe/static/js/main.4b47a754.chunk.js.map",
     "runtime~main.js": "/wbtc-cafe/static/js/runtime~main.e8460238.js",
     "runtime~main.js.map": "/wbtc-cafe/static/js/runtime~main.e8460238.js.map",
-    "static/js/2.3d881b5d.chunk.js": "/wbtc-cafe/static/js/2.3d881b5d.chunk.js",
-    "static/js/2.3d881b5d.chunk.js.map": "/wbtc-cafe/static/js/2.3d881b5d.chunk.js.map",
+    "static/js/2.959c656c.chunk.js": "/wbtc-cafe/static/js/2.959c656c.chunk.js",
+    "static/js/2.959c656c.chunk.js.map": "/wbtc-cafe/static/js/2.959c656c.chunk.js.map",
     "index.html": "/wbtc-cafe/index.html",
-    "precache-manifest.1d5455be45534bdd1e60d396549a2988.js": "/wbtc-cafe/precache-manifest.1d5455be45534bdd1e60d396549a2988.js",
+    "precache-manifest.c6e730a1a8a37dbead0f13e91f92cd0c.js": "/wbtc-cafe/precache-manifest.c6e730a1a8a37dbead0f13e91f92cd0c.js",
     "service-worker.js": "/wbtc-cafe/service-worker.js",
     "static/css/main.b79f1b1d.chunk.css.map": "/wbtc-cafe/static/css/main.b79f1b1d.chunk.css.map",
     "static/media/btc.png": "/wbtc-cafe/static/media/btc.ae796dc4.png",
@@ -16,7 +16,7 @@
     "static/media/dai.png": "/wbtc-cafe/static/media/dai.42d0a1b9.png",
     "static/media/eth.png": "/wbtc-cafe/static/media/eth.86976a92.png",
     "static/media/renvm-powered.svg": "/wbtc-cafe/static/media/renvm-powered.e597e332.svg",
-    "static/media/scrypt.node": "/wbtc-cafe/static/media/scrypt.92d3d9e3.node",
+    "static/media/scrypt.node": "/wbtc-cafe/static/media/scrypt.51bb41f8.node",
     "static/media/wbtc-logo.svg": "/wbtc-cafe/static/media/wbtc-logo.4c022ae6.svg",
     "static/media/wbtc.png": "/wbtc-cafe/static/media/wbtc.af995ef6.png",
     "static/media/zec.jpg": "/wbtc-cafe/static/media/zec.7037fa89.jpg"
