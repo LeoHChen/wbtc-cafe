@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3241fd48e9fd9b2e82ef53dc86f7f662",
+    "revision": "64cb4715336011f40526696963b4f8ac",
     "url": "/wbtc-cafe/index.html"
   },
   {
-    "revision": "765ad8dd6561b74db148",
+    "revision": "fe0612a93bb32ce450f6",
     "url": "/wbtc-cafe/static/css/main.b79f1b1d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wbtc-cafe/static/js/2.959c656c.chunk.js"
   },
   {
-    "revision": "765ad8dd6561b74db148",
-    "url": "/wbtc-cafe/static/js/main.4b47a754.chunk.js"
+    "revision": "fe0612a93bb32ce450f6",
+    "url": "/wbtc-cafe/static/js/main.28224e93.chunk.js"
   },
   {
     "revision": "a2c1c905bb9d8924d023",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wbtc-cafe/static/css/main.b79f1b1d.chunk.css",
-    "main.js": "/wbtc-cafe/static/js/main.4b47a754.chunk.js",
-    "main.js.map": "/wbtc-cafe/static/js/main.4b47a754.chunk.js.map",
+    "main.js": "/wbtc-cafe/static/js/main.28224e93.chunk.js",
+    "main.js.map": "/wbtc-cafe/static/js/main.28224e93.chunk.js.map",
     "runtime~main.js": "/wbtc-cafe/static/js/runtime~main.e8460238.js",
     "runtime~main.js.map": "/wbtc-cafe/static/js/runtime~main.e8460238.js.map",
     "static/js/2.959c656c.chunk.js": "/wbtc-cafe/static/js/2.959c656c.chunk.js",
     "static/js/2.959c656c.chunk.js.map": "/wbtc-cafe/static/js/2.959c656c.chunk.js.map",
     "index.html": "/wbtc-cafe/index.html",
-    "precache-manifest.c6e730a1a8a37dbead0f13e91f92cd0c.js": "/wbtc-cafe/precache-manifest.c6e730a1a8a37dbead0f13e91f92cd0c.js",
+    "precache-manifest.be73de53ddc3f369f8a2c6b20148eadf.js": "/wbtc-cafe/precache-manifest.be73de53ddc3f369f8a2c6b20148eadf.js",
     "service-worker.js": "/wbtc-cafe/service-worker.js",
     "static/css/main.b79f1b1d.chunk.css.map": "/wbtc-cafe/static/css/main.b79f1b1d.chunk.css.map",
     "static/media/btc.png": "/wbtc-cafe/static/media/btc.ae796dc4.png",
