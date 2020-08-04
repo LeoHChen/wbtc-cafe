@@ -373,8 +373,8 @@ class TransferContainer extends React.Component {
       validUser &&
       !loadingTransactions;
 
-    const sourceAsset = selectedDirection ? "WBTC" : "BTC";
-    const destAsset = selectedDirection ? "BTC" : "WBTC";
+    const sourceAsset = selectedDirection ? "hBTC" : "BTC";
+    const destAsset = selectedDirection ? "BTC" : "hBTC";
 
     const maxSlippage = store.get("convert.maxSlippage");
     const slippageOptions = [0.005, 0.01, 0.05];
@@ -412,7 +412,7 @@ class TransferContainer extends React.Component {
                             src={MINI_ICON_MAP["wbtc"]}
                             className={classes.icon}
                           />{" "}
-                          Get WBTC
+                          Get hBTC
                         </ToggleButton>
                         <ToggleButton key={1} value={"1"}>
                           <img
@@ -661,7 +661,7 @@ class TransferContainer extends React.Component {
                       )}
                       onClick={this.newDeposit.bind(this)}
                     >
-                      Get WBTC
+                      Get hBTC
                     </Button>
                   </Grid>
                 </Grid>
@@ -701,7 +701,7 @@ class TransferContainer extends React.Component {
                         )}
                         onClick={setWbtcAllowance}
                       >
-                        Allow WBTC
+                        Allow hBTC
                       </Button>
                     )}
                   </Grid>

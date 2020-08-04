@@ -195,7 +195,7 @@ class AppWrapper extends React.Component {
             <Grid item xs={12} className={classes.disclosure}>
               <div>
                 <marquee scrollamount={6}>
-                  Welcome to the WBTC Cafe! This is a new project, so please use
+                  Welcome to the hBTC Cafe! This is a mock-up project, so please use
                   caution.
                 </marquee>
               </div>

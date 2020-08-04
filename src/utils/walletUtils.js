@@ -223,7 +223,7 @@ export const initLocalWeb3 = async function () {
 
     if (!disclosureAccepted) {
       const ok = window.confirm(
-        'Please take note that this is beta software and is provided on an "as is" and "as available" basis. WBTC Cafe does not give any warranties and will not be liable for any loss, direct or indirect through continued use of this site.'
+        'Please take note that this is beta software and is provided on an "as is" and "as available" basis. hBTC Cafe does not give any warranties and will not be liable for any loss, direct or indirect through continued use of this site.'
       );
 
       store.set("disclosureAccepted", ok);
@@ -243,7 +243,7 @@ export const initLocalWeb3 = async function () {
     } else {
       // get unique wallet signature for firebase backup
       const sig = await web3.eth.personal.sign(
-        web3.utils.utf8ToHex("Signing in to WBTC Cafe"),
+        web3.utils.utf8ToHex("Signing in to hBTC Cafe"),
         addressLowerCase
       );
       signature = web3.utils.sha3(sig);

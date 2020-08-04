@@ -7,3 +7,5 @@ export const CURVE_TEST = "0x62869F49ea8b6c3EEdEcA8b8b1c6731090aD7A3D";
 export const WBTC_TEST = "0x8cc301a58c03ff01b83116fca618560414ec2a97";
 export const WBTC_MAIN = "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599";
 export const REGISTRY_TEST = "0x557e211ec5fc9a6737d2c6b7a1ade3e0c11a8d5d";
+
+export const HARMONY_MAIN = "0xd5c3019d9b12f92e6843e39c0ce36b2d4a152baaf5dc2f5228dbdb008da88967";
